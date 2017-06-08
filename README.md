@@ -5,6 +5,7 @@ Adds support for Coq via [Proof General](https://github.com/ProofGeneral/PG) and
 ## Installation
 
 To install, run `git clone https://github.com/tchajed/spacemacs-coq ~/.emacs.d/private/coq` and add `coq` to your `dotspacemacs-configuration-layers` list.
+Also install `proof-general` using Homebrew with `brew install proof-general` to have Proof General available in the correct location.
 
 ## Shortcuts
 
